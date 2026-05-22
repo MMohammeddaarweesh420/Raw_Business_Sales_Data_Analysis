@@ -1,6 +1,3 @@
-تفضل، هذا هو كود ملف `README.md` بتنسيق Markdown الكامل. قم بنسخه بالكامل من داخل الصندوق الأسود أدناه:
-
-```markdown
 # 📊 تحليل بيانات مبيعات الأعمال | Raw Business Sales Data Analysis
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
@@ -75,37 +72,9 @@
 │   ├── 📄 raw_sales_data.csv
 │   └── 📄 processed_sales_data.csv
 │
-├── 📁 notebooks/                 # دفاتر التحليل التفاعلية
-│   ├── 📄 01_data_cleaning.ipynb
-│   └── 📄 02_eda_and_insights.ipynb
+├── 📁 scripts/                 # دفاتر التحليل التفاعلية
+│   ├── 📄 clean.py
 │
 └── 📁 reports/                   # التقارير والنتائج النهائية
     └── 📄 Sales_Analysis_Report.pdf
-```
-
----
-
-## 🚀 كيفية تشغيل المشروع محلياً (Getting Started)
-1. استنساخ المستودع:
-   ```bash
-   git clone https://github.com/MMohammeddaarweesh420/Raw_Business_Sales_Data_Analysis.git
-   ```
-2. الانتقال إلى مجلد المشروع:
-   ```bash
-   cd Raw_Business_Sales_Data_Analysis
-   ```
-3. تثبيت المكتبات المطلوبة:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. تشغيل Jupyter Notebook لاستكشاف التحليل:
-   ```bash
-   jupyter notebook
-   ```
-
----
-
-## ✉️ التواصل (Contact)
-**محمد دارويش** - محلل بيانات
-- GitHub: [@MMohammeddaarweesh420](https://github.com/MMohammeddaarweesh420)
-```
+    └── 📄 dashboard.pbix

@@ -69,12 +69,17 @@
 ├── 📄 .gitignore                 # الملفات المستبعدة من Git
 │
 ├── 📁 data/                      # البيانات الخام والمعالجة
-│   ├── 📄 raw_sales_data.csv
-│   └── 📄 processed_sales_data.csv
-│
+│   ├── 📄 Raw_Business_Sales_Data.xlsx
+│   └── 📄 Clean_Raw_Business_Sales_Data.csv
+│   └── 📄 Clean_Raw_Business_Sales_Data.xlsx
+│   └── 📄 Preprocessed_Business_Sales_Data.csv
+│   └── 📄 Preprocessed_Business_Sales_Data.xlsx
 ├── 📁 scripts/                 # دفاتر التحليل التفاعلية
 │   ├── 📄 clean.py
 │
 └── 📁 reports/                   # التقارير والنتائج النهائية
     └── 📄 Sales_Analysis_Report.pdf
     └── 📄 dashboard.pbix
+    └── 📄 data_pipeline.log
+    └── 📄 Business_Insights_Report.txt
+

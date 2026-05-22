@@ -1,0 +1,189 @@
+2026-05-16 17:53:18,038 - INFO - 🚀 بدء تشغيل خط معالجة البيانات...
+2026-05-16 17:53:18,039 - CRITICAL - ❌ حدث خطأ فادح أثناء التنفيذ: name 'Raw_Business_Sales_Data' is not defined
+2026-05-16 17:59:22,565 - INFO - 🚀 بدء تشغيل خط معالجة البيانات...
+2026-05-16 17:59:22,566 - INFO - جاري قراءة الملف: Raw_Business_Sales_Data.xlsx
+2026-05-16 17:59:23,239 - INFO - 
+--- استكشاف البيانات ---
+2026-05-16 17:59:23,239 - INFO - عدد الصفوف والأعمدة: (450, 8)
+2026-05-16 17:59:23,240 - INFO - أسماء الأعمدة:
+['Transaction_ID', 'Date', 'Product', 'Category', 'Unit_Price', 'Quantity', 'Total_Sales', 'Customer_Rating']
+2026-05-16 17:59:23,243 - INFO - أنواع البيانات:
+Transaction_ID         str
+Date                   str
+Product                str
+Category               str
+Unit_Price         float64
+Quantity             int64
+Total_Sales        float64
+Customer_Rating    float64
+dtype: object
+2026-05-16 17:59:23,246 - INFO - عدد القيم المفقودة:
+Transaction_ID      0
+Date                0
+Product             0
+Category            0
+Unit_Price         10
+Quantity            0
+Total_Sales        10
+Customer_Rating    24
+dtype: int64
+2026-05-16 17:59:23,300 - INFO - ملخص إحصائي:
+       Transaction_ID        Date  ... Total_Sales Customer_Rating
+count             450         450  ...  440.000000      426.000000
+unique            450         165  ...         NaN             NaN
+top          TRX-0001  2026-03-04  ...         NaN             NaN
+freq                1           8  ...         NaN             NaN
+mean              NaN         NaN  ...   36.497318        3.880282
+std               NaN         NaN  ...   32.028956        1.094257
+min               NaN         NaN  ...    5.060000        1.000000
+25%               NaN         NaN  ...   14.560000        3.000000
+50%               NaN         NaN  ...   25.790000        4.000000
+75%               NaN         NaN  ...   44.192500        5.000000
+max               NaN         NaN  ...  209.650000        5.000000
+
+[11 rows x 8 columns]
+2026-05-16 17:59:23,300 - INFO - 
+--- بدء تنظيف البيانات ---
+2026-05-16 17:59:23,334 - INFO - تم حذف 0 صف مكرر.
+2026-05-16 17:59:23,351 - INFO - تمت معالجة 0 قيمة مفقودة.
+2026-05-16 17:59:23,351 - INFO - 
+--- اكتشاف القيم الشاذة (Outliers) ---
+2026-05-16 17:59:23,355 - INFO - عمود Unit_Price: يوجد 0 قيمة شاذة
+2026-05-16 17:59:23,360 - INFO - عمود Quantity: يوجد 64 قيمة شاذة
+2026-05-16 17:59:23,368 - INFO - عمود Total_Sales: يوجد 36 قيمة شاذة
+2026-05-16 17:59:23,372 - INFO - عمود Customer_Rating: يوجد 0 قيمة شاذة
+2026-05-16 17:59:23,372 - INFO - 
+--- هندسة الميزات (Feature Engineering) ---
+2026-05-16 17:59:23,382 - CRITICAL - ❌ حدث خطأ فادح أثناء التنفيذ: Choicelist and default value do not have a common dtype: The DType <class 'numpy.dtypes._PyLongDType'> could not be promoted by <class 'numpy.dtypes.StrDType'>. This means that no common DType exists for the given inputs. For example they cannot be stored in a single array unless the dtype is `object`. The full list of DTypes is: (<class 'numpy.dtypes.StrDType'>, <class 'numpy.dtypes.StrDType'>, <class 'numpy.dtypes.StrDType'>, <class 'numpy.dtypes._PyLongDType'>)
+2026-05-16 18:02:30,240 - INFO - 🚀 بدء تشغيل خط معالجة البيانات...
+2026-05-16 18:02:30,240 - INFO - جاري قراءة الملف: D:\Raw_Business_Sales_Data.xlsx
+2026-05-16 18:02:30,734 - ERROR - خطأ في قراءة الملف: [Errno 2] No such file or directory: 'D:\\Raw_Business_Sales_Data.xlsx'
+2026-05-16 18:02:30,735 - CRITICAL - ❌ حدث خطأ فادح أثناء التنفيذ: فشل في تحميل البيانات!
+2026-05-16 18:03:26,807 - INFO - 🚀 بدء تشغيل خط معالجة البيانات...
+2026-05-16 18:03:26,808 - INFO - جاري قراءة الملف: D:\Raw_Business_Sales_Data.xlsx
+2026-05-16 18:03:27,299 - ERROR - خطأ في قراءة الملف: [Errno 2] No such file or directory: 'D:\\Raw_Business_Sales_Data.xlsx'
+2026-05-16 18:03:27,300 - CRITICAL - ❌ حدث خطأ فادح أثناء التنفيذ: فشل في تحميل البيانات!
+2026-05-16 18:28:22,194 - INFO - 🚀 بدء تشغيل خط معالجة البيانات...
+2026-05-16 18:28:22,195 - INFO - جاري قراءة الملف: Raw_Business_Sales_Data.xlsx
+2026-05-16 18:28:22,703 - INFO - 
+--- استكشاف البيانات ---
+2026-05-16 18:28:22,703 - INFO - عدد الصفوف والأعمدة: (450, 8)
+2026-05-16 18:28:22,703 - INFO - أسماء الأعمدة:
+['Transaction_ID', 'Date', 'Product', 'Category', 'Unit_Price', 'Quantity', 'Total_Sales', 'Customer_Rating']
+2026-05-16 18:28:22,706 - INFO - أنواع البيانات:
+Transaction_ID         str
+Date                   str
+Product                str
+Category               str
+Unit_Price         float64
+Quantity             int64
+Total_Sales        float64
+Customer_Rating    float64
+dtype: object
+2026-05-16 18:28:22,709 - INFO - عدد القيم المفقودة:
+Transaction_ID      0
+Date                0
+Product             0
+Category            0
+Unit_Price         10
+Quantity            0
+Total_Sales        10
+Customer_Rating    24
+dtype: int64
+2026-05-16 18:28:22,756 - INFO - ملخص إحصائي:
+       Transaction_ID        Date         Product  ...    Quantity  Total_Sales  Customer_Rating
+count             450         450             450  ...  450.000000   440.000000       426.000000
+unique            450         165              16  ...         NaN          NaN              NaN
+top          TRX-0001  2026-03-04  Running Shorts  ...         NaN          NaN              NaN
+freq                1           8              36  ...         NaN          NaN              NaN
+mean              NaN         NaN             NaN  ...    1.935556    36.497318         3.880282
+std               NaN         NaN             NaN  ...    1.185596    32.028956         1.094257
+min               NaN         NaN             NaN  ...    1.000000     5.060000         1.000000
+25%               NaN         NaN             NaN  ...    1.000000    14.560000         3.000000
+50%               NaN         NaN             NaN  ...    2.000000    25.790000         4.000000
+75%               NaN         NaN             NaN  ...    2.000000    44.192500         5.000000
+max               NaN         NaN             NaN  ...    5.000000   209.650000         5.000000
+
+[11 rows x 8 columns]
+2026-05-16 18:28:22,757 - INFO - 
+--- بدء تنظيف البيانات ---
+2026-05-16 18:28:22,795 - INFO - تم حذف 0 صف مكرر.
+2026-05-16 18:28:22,804 - INFO - تمت معالجة 0 قيمة مفقودة.
+2026-05-16 18:28:22,805 - INFO - 
+--- اكتشاف القيم الشاذة (Outliers) ---
+2026-05-16 18:28:22,810 - INFO - عمود Unit_Price: يوجد 0 قيمة شاذة
+2026-05-16 18:28:22,815 - INFO - عمود Quantity: يوجد 64 قيمة شاذة
+2026-05-16 18:28:22,818 - INFO - عمود Total_Sales: يوجد 36 قيمة شاذة
+2026-05-16 18:28:22,821 - INFO - عمود Customer_Rating: يوجد 0 قيمة شاذة
+2026-05-16 18:28:22,821 - INFO - 
+--- هندسة الميزات (Feature Engineering) ---
+2026-05-16 18:28:22,828 - CRITICAL - ❌ حدث خطأ فادح أثناء التنفيذ: Choicelist and default value do not have a common dtype: The DType <class 'numpy.dtypes._PyLongDType'> could not be promoted by <class 'numpy.dtypes.StrDType'>. This means that no common DType exists for the given inputs. For example they cannot be stored in a single array unless the dtype is `object`. The full list of DTypes is: (<class 'numpy.dtypes.StrDType'>, <class 'numpy.dtypes.StrDType'>, <class 'numpy.dtypes.StrDType'>, <class 'numpy.dtypes._PyLongDType'>)
+2026-05-16 18:34:40,036 - INFO - 🚀 بدء تشغيل خط معالجة البيانات...
+2026-05-16 18:34:40,036 - INFO - جاري قراءة الملف: Raw_Business_Sales_Data.xlsx
+2026-05-16 18:34:40,618 - INFO - 
+--- استكشاف البيانات ---
+2026-05-16 18:34:40,618 - INFO - عدد الصفوف والأعمدة: (450, 8)
+2026-05-16 18:34:40,619 - INFO - أسماء الأعمدة:
+['Transaction_ID', 'Date', 'Product', 'Category', 'Unit_Price', 'Quantity', 'Total_Sales', 'Customer_Rating']
+2026-05-16 18:34:40,622 - INFO - أنواع البيانات:
+Transaction_ID         str
+Date                   str
+Product                str
+Category               str
+Unit_Price         float64
+Quantity             int64
+Total_Sales        float64
+Customer_Rating    float64
+dtype: object
+2026-05-16 18:34:40,625 - INFO - عدد القيم المفقودة:
+Transaction_ID      0
+Date                0
+Product             0
+Category            0
+Unit_Price         10
+Quantity            0
+Total_Sales        10
+Customer_Rating    24
+dtype: int64
+2026-05-16 18:34:40,680 - INFO - ملخص إحصائي:
+       Transaction_ID        Date         Product  ...    Quantity  Total_Sales  Customer_Rating
+count             450         450             450  ...  450.000000   440.000000       426.000000
+unique            450         165              16  ...         NaN          NaN              NaN
+top          TRX-0001  2026-03-04  Running Shorts  ...         NaN          NaN              NaN
+freq                1           8              36  ...         NaN          NaN              NaN
+mean              NaN         NaN             NaN  ...    1.935556    36.497318         3.880282
+std               NaN         NaN             NaN  ...    1.185596    32.028956         1.094257
+min               NaN         NaN             NaN  ...    1.000000     5.060000         1.000000
+25%               NaN         NaN             NaN  ...    1.000000    14.560000         3.000000
+50%               NaN         NaN             NaN  ...    2.000000    25.790000         4.000000
+75%               NaN         NaN             NaN  ...    2.000000    44.192500         5.000000
+max               NaN         NaN             NaN  ...    5.000000   209.650000         5.000000
+
+[11 rows x 8 columns]
+2026-05-16 18:34:40,680 - INFO - 
+--- بدء تنظيف البيانات ---
+2026-05-16 18:34:40,708 - INFO - تم حذف 0 صف مكرر.
+2026-05-16 18:34:40,722 - INFO - تمت معالجة 44 قيمة مفقودة.
+2026-05-16 18:34:40,722 - INFO - 
+--- اكتشاف القيم الشاذة (Outliers) ---
+2026-05-16 18:34:40,725 - INFO - عمود Unit_Price: يوجد 0 قيمة شاذة
+2026-05-16 18:34:40,734 - INFO - عمود Quantity: يوجد 64 قيمة شاذة
+2026-05-16 18:34:40,738 - INFO - عمود Total_Sales: يوجد 37 قيمة شاذة
+2026-05-16 18:34:40,742 - INFO - عمود Customer_Rating: يوجد 0 قيمة شاذة
+2026-05-16 18:34:40,745 - INFO - 
+--- هندسة الميزات (Feature Engineering) ---
+2026-05-16 18:34:40,751 - INFO - 
+--- حفظ البيانات بعد المعالجة المبدئية (Preprocessed Data) ---
+2026-05-16 18:34:40,968 - INFO - تم حفظ البيانات المعالجة مبدئياً في: Preprocessed_Business_Sales_Data.xlsx و Preprocessed_Business_Sales_Data.csv
+2026-05-16 18:34:40,969 - INFO - 
+--- التحليل الاستكشافي EDA ---
+2026-05-16 18:34:40,974 - INFO - إجمالي المبيعات: $16,364.25
+2026-05-16 18:34:40,974 - INFO - أعلى فئة مبيعاً: Fitness & Outdoors
+2026-05-16 18:34:40,974 - INFO - أفضل منتج أداءً: Power Bank
+2026-05-16 18:34:40,975 - INFO - 
+--- إنشاء الرسوم البيانية ---
+2026-05-16 18:34:43,006 - INFO - تم حفظ جميع الرسوم في مجلد visualizations/
+2026-05-16 18:34:43,006 - INFO - 
+--- تجهيز البيانات لـ Power BI ---
+2026-05-16 18:34:43,010 - INFO - 
+--- حفظ الملفات النهائية لـ Power BI ---

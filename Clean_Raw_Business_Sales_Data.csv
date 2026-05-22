@@ -1,0 +1,451 @@
+﻿Transaction_ID,Date,Product,Category,Unit_Price,Quantity,Total_Sales,Customer_Rating,Sales_Per_Unit,Revenue_Level,Rating_Category
+TRX-0001,2026-04-12,Ergonomic Mouse,Office Supplies,24.69,1,24.69,5.0,24.69,Medium,Excellent
+TRX-0002,2026-03-12,LED Desk Light,Gadgets,28.5,2,57.0,3.0,28.5,High,Average
+TRX-0003,2026-01-27,Gel Pens,Office Supplies,6.8,1,6.8,5.0,6.8,Low,Excellent
+TRX-0004,2026-03-26,Dumbbell Set,Fitness & Outdoors,33.99,1,33.99,5.0,33.99,Medium,Excellent
+TRX-0005,2026-03-26,Notebook,Office Supplies,16.075,3,48.224999999999994,4.0,16.075,High,Excellent
+TRX-0006,2026-03-10,Resistance Bands,Fitness & Outdoors,13.54,2,27.08,3.0,13.54,Medium,Average
+TRX-0007,2026-02-09,T-Shirt,Apparel,15.03,1,15.03,5.0,15.03,Low,Excellent
+TRX-0008,2026-03-04,Dumbbell Set,Fitness & Outdoors,28.45,1,28.45,4.0,28.45,Medium,Excellent
+TRX-0009,2025-11-05,Running Shorts,Apparel,23.3,5,116.5,3.0,23.3,High,Average
+TRX-0010,2026-01-22,Ergonomic Mouse,Office Supplies,16.86,1,16.86,4.0,16.86,Low,Excellent
+TRX-0011,2026-03-20,Resistance Bands,Fitness & Outdoors,13.23,1,13.23,4.0,13.23,Low,Excellent
+TRX-0012,2026-03-04,Baseball Cap,Apparel,8.01,2,16.02,5.0,8.01,Low,Excellent
+TRX-0013,2026-02-24,Yoga Mat,Fitness & Outdoors,29.79,1,29.79,3.0,29.79,Medium,Average
+TRX-0014,2026-03-24,Desk Organizer,Office Supplies,24.04,1,24.04,5.0,24.04,Medium,Excellent
+TRX-0015,2026-01-13,Water Bottle,Fitness & Outdoors,7.9,2,15.8,5.0,7.9,Low,Excellent
+TRX-0016,2025-11-19,Yoga Mat,Fitness & Outdoors,38.07,1,38.07,3.0,38.07,High,Average
+TRX-0017,2026-02-28,LED Desk Light,Gadgets,41.93,5,209.65,3.0,41.93,High,Average
+TRX-0018,2026-03-16,Baseball Cap,Apparel,14.79,1,14.79,4.0,14.79,Low,Excellent
+TRX-0019,2026-04-03,Running Shorts,Apparel,16.48,1,16.48,3.0,16.48,Low,Average
+TRX-0020,2026-04-13,Yoga Mat,Fitness & Outdoors,26.26,1,26.26,1.0,26.26,Medium,Poor
+TRX-0021,2025-11-29,Dumbbell Set,Fitness & Outdoors,33.63,1,33.63,1.0,33.63,Medium,Poor
+TRX-0022,2026-03-09,Desk Organizer,Office Supplies,23.61,2,47.22,4.0,23.61,High,Excellent
+TRX-0023,2025-11-13,LED Desk Light,Gadgets,44.53,2,89.06,5.0,44.53,High,Excellent
+TRX-0024,2025-12-04,Baseball Cap,Apparel,13.86,1,13.86,5.0,13.86,Low,Excellent
+TRX-0025,2026-03-10,Running Shorts,Apparel,22.41,1,22.41,4.0,22.41,Medium,Excellent
+TRX-0026,2025-12-31,Ergonomic Mouse,Office Supplies,17.5,3,52.5,1.0,17.5,High,Poor
+TRX-0027,2025-12-26,Ergonomic Mouse,Office Supplies,20.22,1,20.22,5.0,20.22,Medium,Excellent
+TRX-0028,2026-01-10,Baseball Cap,Apparel,9.84,4,39.36,4.0,9.84,High,Excellent
+TRX-0029,2026-02-06,Resistance Bands,Fitness & Outdoors,6.91,4,27.64,3.0,6.91,Medium,Average
+TRX-0030,2026-03-15,T-Shirt,Apparel,22.33,5,111.64999999999999,3.88,22.33,High,Excellent
+TRX-0031,2025-12-17,Power Bank,Gadgets,42.41,3,127.22999999999999,5.0,42.41,High,Excellent
+TRX-0032,2026-01-05,Yoga Mat,Fitness & Outdoors,41.12,1,41.12,5.0,41.12,High,Excellent
+TRX-0033,2026-02-27,Baseball Cap,Apparel,9.1,3,27.299999999999997,5.0,9.1,Medium,Excellent
+TRX-0034,2026-04-25,Socks Pack,Apparel,9.88,2,19.76,4.0,9.88,Medium,Excellent
+TRX-0035,2026-01-14,Resistance Bands,Fitness & Outdoors,11.26,1,11.26,3.88,11.26,Low,Excellent
+TRX-0036,2026-04-13,T-Shirt,Apparel,24.01,2,48.02,3.88,24.01,High,Excellent
+TRX-0037,2025-11-28,Running Shorts,Apparel,21.07,3,63.21,5.0,21.07,High,Excellent
+TRX-0038,2025-12-04,USB-C Cable,Gadgets,5.06,1,5.06,4.0,5.06,Low,Excellent
+TRX-0039,2025-11-04,Ergonomic Mouse,Office Supplies,19.36,1,19.36,3.0,19.36,Medium,Average
+TRX-0040,2026-03-13,Socks Pack,Apparel,10.34,1,10.34,3.0,10.34,Low,Average
+TRX-0041,2026-01-05,Running Shorts,Apparel,19.45,1,19.45,3.88,19.45,Medium,Excellent
+TRX-0042,2025-11-11,Water Bottle,Fitness & Outdoors,13.99,4,55.96,1.0,13.99,High,Poor
+TRX-0043,2025-12-12,Resistance Bands,Fitness & Outdoors,7.84,1,7.84,5.0,7.84,Low,Excellent
+TRX-0044,2025-12-27,Notebook,Office Supplies,8.19,2,16.38,4.0,8.19,Low,Excellent
+TRX-0045,2026-04-23,Yoga Mat,Fitness & Outdoors,40.06,2,80.12,4.0,40.06,High,Excellent
+TRX-0046,2025-11-08,Dumbbell Set,Fitness & Outdoors,32.25,1,32.25,2.0,32.25,Medium,Poor
+TRX-0047,2026-03-14,Resistance Bands,Fitness & Outdoors,11.12,1,11.12,5.0,11.12,Low,Excellent
+TRX-0048,2026-04-20,Desk Organizer,Office Supplies,19.29,1,19.29,4.0,19.29,Medium,Excellent
+TRX-0049,2026-03-01,Baseball Cap,Apparel,10.07,1,10.07,1.0,10.07,Low,Poor
+TRX-0050,2026-03-09,Dumbbell Set,Fitness & Outdoors,27.12,4,108.48,5.0,27.12,High,Excellent
+TRX-0051,2026-02-19,T-Shirt,Apparel,15.83,5,79.15,4.0,15.830000000000002,High,Excellent
+TRX-0052,2025-11-28,USB-C Cable,Gadgets,12.55,1,12.55,3.0,12.55,Low,Average
+TRX-0053,2026-03-30,Desk Organizer,Office Supplies,16.81,2,33.62,5.0,16.81,Medium,Excellent
+TRX-0054,2026-02-16,Baseball Cap,Apparel,5.63,3,16.89,4.0,5.63,Low,Excellent
+TRX-0055,2026-04-14,Notebook,Office Supplies,14.41,1,14.41,5.0,14.41,Low,Excellent
+TRX-0056,2025-12-16,LED Desk Light,Gadgets,38.32,2,76.64,4.0,38.32,High,Excellent
+TRX-0057,2026-02-05,Resistance Bands,Fitness & Outdoors,9.1,1,9.1,5.0,9.1,Low,Excellent
+TRX-0058,2026-01-26,Yoga Mat,Fitness & Outdoors,37.33,2,74.66,4.0,37.33,High,Excellent
+TRX-0059,2025-12-05,Ergonomic Mouse,Office Supplies,18.41,1,18.41,4.0,18.41,Medium,Excellent
+TRX-0060,2026-01-15,T-Shirt,Apparel,24.11,1,24.11,4.0,24.11,Medium,Excellent
+TRX-0061,2026-02-03,Desk Organizer,Office Supplies,19.75,2,39.5,1.0,19.75,High,Poor
+TRX-0062,2026-01-25,Gel Pens,Office Supplies,8.31,1,8.31,4.0,8.31,Low,Excellent
+TRX-0063,2026-04-17,T-Shirt,Apparel,19.85,1,19.85,5.0,19.85,Medium,Excellent
+TRX-0064,2026-01-07,Gel Pens,Office Supplies,14.53,2,29.06,4.0,14.53,Medium,Excellent
+TRX-0065,2026-02-16,USB-C Cable,Gadgets,13.06,1,13.06,2.0,13.06,Low,Poor
+TRX-0066,2025-11-09,Gel Pens,Office Supplies,8.82,1,8.82,3.88,8.82,Low,Excellent
+TRX-0067,2026-02-14,Water Bottle,Fitness & Outdoors,5.5,1,5.5,2.0,5.5,Low,Poor
+TRX-0068,2025-11-24,Gel Pens,Office Supplies,14.9,1,14.9,5.0,14.9,Low,Excellent
+TRX-0069,2026-02-28,LED Desk Light,Gadgets,36.43,1,36.43,4.0,36.43,Medium,Excellent
+TRX-0070,2025-12-13,Power Bank,Gadgets,36.77,4,147.08,1.0,36.77,High,Poor
+TRX-0071,2026-01-14,Baseball Cap,Apparel,16.075,4,64.3,4.0,16.075,High,Excellent
+TRX-0072,2026-01-15,LED Desk Light,Gadgets,38.38,1,38.38,4.0,38.38,High,Excellent
+TRX-0073,2025-11-28,Running Shorts,Apparel,16.82,1,16.82,4.0,16.82,Low,Excellent
+TRX-0074,2026-03-15,Ergonomic Mouse,Office Supplies,18.66,2,37.32,4.0,18.66,Medium,Excellent
+TRX-0075,2025-12-03,Gel Pens,Office Supplies,12.81,2,25.62,3.88,12.81,Medium,Excellent
+TRX-0076,2026-01-30,Water Bottle,Fitness & Outdoors,14.13,4,56.52,2.0,14.13,High,Poor
+TRX-0077,2026-02-07,Running Shorts,Apparel,21.85,2,43.7,4.0,21.85,High,Excellent
+TRX-0078,2026-02-05,Resistance Bands,Fitness & Outdoors,8.7,2,17.4,3.88,8.7,Low,Excellent
+TRX-0079,2026-02-15,Running Shorts,Apparel,16.07,2,32.14,4.0,16.07,Medium,Excellent
+TRX-0080,2025-11-25,T-Shirt,Apparel,17.86,2,35.72,4.0,17.86,Medium,Excellent
+TRX-0081,2025-12-15,Socks Pack,Apparel,14.95,1,14.95,4.0,14.95,Low,Excellent
+TRX-0082,2026-02-04,Yoga Mat,Fitness & Outdoors,42.76,3,128.28,2.0,42.76,High,Poor
+TRX-0083,2026-03-21,Dumbbell Set,Fitness & Outdoors,26.92,1,26.92,4.0,26.92,Medium,Excellent
+TRX-0084,2026-03-30,Socks Pack,Apparel,5.91,3,17.73,4.0,5.91,Medium,Excellent
+TRX-0085,2026-04-20,Ergonomic Mouse,Office Supplies,19.13,1,19.13,4.0,19.13,Medium,Excellent
+TRX-0086,2025-12-06,LED Desk Light,Gadgets,26.65,2,53.3,4.0,26.65,High,Excellent
+TRX-0087,2025-12-07,Resistance Bands,Fitness & Outdoors,7.78,1,7.78,4.0,7.78,Low,Excellent
+TRX-0088,2026-02-26,Water Bottle,Fitness & Outdoors,13.24,5,66.2,3.0,13.24,High,Average
+TRX-0089,2026-04-16,Gel Pens,Office Supplies,6.39,1,6.39,3.0,6.39,Low,Average
+TRX-0090,2025-12-14,T-Shirt,Apparel,21.84,1,21.84,1.0,21.84,Medium,Poor
+TRX-0091,2025-12-21,Phone Stand,Gadgets,13.23,1,13.23,4.0,13.23,Low,Excellent
+TRX-0092,2026-04-23,Yoga Mat,Fitness & Outdoors,38.38,1,38.38,3.0,38.38,High,Average
+TRX-0093,2026-04-10,Water Bottle,Fitness & Outdoors,10.22,1,10.22,4.0,10.22,Low,Excellent
+TRX-0094,2026-04-01,T-Shirt,Apparel,16.22,1,16.22,4.0,16.22,Low,Excellent
+TRX-0095,2025-12-09,Ergonomic Mouse,Office Supplies,24.94,1,24.94,5.0,24.94,Medium,Excellent
+TRX-0096,2026-02-01,Water Bottle,Fitness & Outdoors,11.74,3,35.22,4.0,11.74,Medium,Excellent
+TRX-0097,2026-04-21,Ergonomic Mouse,Office Supplies,22.06,1,22.06,5.0,22.06,Medium,Excellent
+TRX-0098,2026-01-20,Water Bottle,Fitness & Outdoors,6.91,1,6.91,5.0,6.91,Low,Excellent
+TRX-0099,2026-03-22,Baseball Cap,Apparel,5.44,4,21.76,3.88,5.44,Medium,Excellent
+TRX-0100,2026-01-29,Resistance Bands,Fitness & Outdoors,10.53,1,10.53,4.0,10.53,Low,Excellent
+TRX-0101,2026-04-18,Yoga Mat,Fitness & Outdoors,42.75,3,128.25,4.0,42.75,High,Excellent
+TRX-0102,2025-12-08,Notebook,Office Supplies,7.54,1,7.54,2.0,7.54,Low,Poor
+TRX-0103,2026-04-20,USB-C Cable,Gadgets,12.05,3,36.150000000000006,4.0,12.050000000000002,Medium,Excellent
+TRX-0104,2025-11-13,Resistance Bands,Fitness & Outdoors,6.83,5,34.15,3.0,6.83,Medium,Average
+TRX-0105,2025-11-22,Phone Stand,Gadgets,10.15,1,10.15,5.0,10.15,Low,Excellent
+TRX-0106,2026-02-25,Power Bank,Gadgets,39.15,2,78.3,5.0,39.15,High,Excellent
+TRX-0107,2026-03-29,Phone Stand,Gadgets,8.39,1,8.39,3.0,8.39,Low,Average
+TRX-0108,2026-03-24,Notebook,Office Supplies,6.76,4,27.04,5.0,6.76,Medium,Excellent
+TRX-0109,2026-03-31,T-Shirt,Apparel,19.31,1,19.31,4.0,19.31,Medium,Excellent
+TRX-0110,2025-11-29,Ergonomic Mouse,Office Supplies,17.79,1,17.79,4.0,17.79,Medium,Excellent
+TRX-0111,2025-11-21,Notebook,Office Supplies,12.64,1,12.64,4.0,12.64,Low,Excellent
+TRX-0112,2025-12-12,Gel Pens,Office Supplies,10.46,4,41.84,3.88,10.46,High,Excellent
+TRX-0113,2025-11-09,Water Bottle,Fitness & Outdoors,6.59,1,6.59,2.0,6.59,Low,Poor
+TRX-0114,2025-12-30,Yoga Mat,Fitness & Outdoors,30.65,2,61.3,5.0,30.65,High,Excellent
+TRX-0115,2025-12-10,Dumbbell Set,Fitness & Outdoors,35.31,2,70.62,4.0,35.31,High,Excellent
+TRX-0116,2026-02-25,Gel Pens,Office Supplies,13.56,1,13.56,5.0,13.56,Low,Excellent
+TRX-0117,2025-11-10,T-Shirt,Apparel,20.32,1,20.32,5.0,20.32,Medium,Excellent
+TRX-0118,2026-02-06,Water Bottle,Fitness & Outdoors,11.06,2,22.12,3.0,11.06,Medium,Average
+TRX-0119,2026-03-29,Yoga Mat,Fitness & Outdoors,32.85,3,98.55000000000001,4.0,32.85,High,Excellent
+TRX-0120,2025-11-28,Yoga Mat,Fitness & Outdoors,36.77,2,73.54,5.0,36.77,High,Excellent
+TRX-0121,2025-11-07,Power Bank,Gadgets,30.88,1,30.88,3.0,30.88,Medium,Average
+TRX-0122,2026-03-19,Water Bottle,Fitness & Outdoors,8.46,2,16.92,4.0,8.46,Low,Excellent
+TRX-0123,2025-12-28,Water Bottle,Fitness & Outdoors,13.8,5,69.0,1.0,13.8,High,Poor
+TRX-0124,2026-03-01,LED Desk Light,Gadgets,29.08,1,29.08,4.0,29.08,Medium,Excellent
+TRX-0125,2026-02-27,Gel Pens,Office Supplies,13.1,4,52.4,4.0,13.1,High,Excellent
+TRX-0126,2026-03-10,Resistance Bands,Fitness & Outdoors,12.19,2,24.38,4.0,12.19,Medium,Excellent
+TRX-0127,2025-12-23,Gel Pens,Office Supplies,14.7,2,29.4,5.0,14.7,Medium,Excellent
+TRX-0128,2026-01-07,USB-C Cable,Gadgets,7.29,2,14.58,3.0,7.29,Low,Average
+TRX-0129,2025-11-09,Gel Pens,Office Supplies,7.31,1,7.31,3.88,7.31,Low,Excellent
+TRX-0130,2026-02-02,LED Desk Light,Gadgets,32.09,3,96.27000000000001,5.0,32.09,High,Excellent
+TRX-0131,2025-11-18,Phone Stand,Gadgets,16.075,2,32.15,5.0,16.075,Medium,Excellent
+TRX-0132,2025-12-29,Running Shorts,Apparel,20.19,1,20.19,1.0,20.19,Medium,Poor
+TRX-0133,2026-03-29,Desk Organizer,Office Supplies,19.86,1,19.86,5.0,19.86,Medium,Excellent
+TRX-0134,2026-02-07,Ergonomic Mouse,Office Supplies,22.61,1,22.61,5.0,22.61,Medium,Excellent
+TRX-0135,2025-12-01,T-Shirt,Apparel,16.56,2,33.12,5.0,16.56,Medium,Excellent
+TRX-0136,2026-01-23,Phone Stand,Gadgets,14.97,1,14.97,5.0,14.97,Low,Excellent
+TRX-0137,2026-01-06,Resistance Bands,Fitness & Outdoors,12.6,4,50.4,4.0,12.6,High,Excellent
+TRX-0138,2026-01-21,Desk Organizer,Office Supplies,19.69,4,78.76,4.0,19.69,High,Excellent
+TRX-0139,2025-12-20,T-Shirt,Apparel,23.61,2,47.22,5.0,23.61,High,Excellent
+TRX-0140,2026-04-09,T-Shirt,Apparel,17.87,2,35.74,4.0,17.87,Medium,Excellent
+TRX-0141,2026-01-02,LED Desk Light,Gadgets,38.74,2,77.48,4.0,38.74,High,Excellent
+TRX-0142,2026-01-23,Ergonomic Mouse,Office Supplies,24.71,1,24.71,4.0,24.71,Medium,Excellent
+TRX-0143,2026-03-04,Desk Organizer,Office Supplies,23.45,1,23.45,4.0,23.45,Medium,Excellent
+TRX-0144,2026-02-05,Desk Organizer,Office Supplies,21.58,1,21.58,5.0,21.58,Medium,Excellent
+TRX-0145,2025-12-09,Notebook,Office Supplies,7.38,1,7.38,5.0,7.38,Low,Excellent
+TRX-0146,2026-04-06,Notebook,Office Supplies,9.29,1,9.29,5.0,9.29,Low,Excellent
+TRX-0147,2026-04-06,Yoga Mat,Fitness & Outdoors,29.61,4,118.44,3.0,29.61,High,Average
+TRX-0148,2025-11-03,Gel Pens,Office Supplies,5.72,4,22.88,3.0,5.72,Medium,Average
+TRX-0149,2026-01-25,Power Bank,Gadgets,26.21,1,26.21,3.88,26.21,Medium,Excellent
+TRX-0150,2026-03-03,Ergonomic Mouse,Office Supplies,19.27,1,19.27,4.0,19.27,Medium,Excellent
+TRX-0151,2026-01-02,Yoga Mat,Fitness & Outdoors,26.32,1,26.32,5.0,26.32,Medium,Excellent
+TRX-0152,2026-03-04,Dumbbell Set,Fitness & Outdoors,31.98,1,31.98,4.0,31.98,Medium,Excellent
+TRX-0153,2026-02-19,Desk Organizer,Office Supplies,23.17,1,23.17,4.0,23.17,Medium,Excellent
+TRX-0154,2026-04-09,Resistance Bands,Fitness & Outdoors,14.9,2,29.8,5.0,14.9,Medium,Excellent
+TRX-0155,2026-03-25,Water Bottle,Fitness & Outdoors,9.94,1,9.94,5.0,9.94,Low,Excellent
+TRX-0156,2025-11-08,Baseball Cap,Apparel,14.0,2,28.0,4.0,14.0,Medium,Excellent
+TRX-0157,2025-11-17,Gel Pens,Office Supplies,14.11,1,14.11,3.88,14.11,Low,Excellent
+TRX-0158,2026-01-11,USB-C Cable,Gadgets,9.31,1,9.31,5.0,9.31,Low,Excellent
+TRX-0159,2026-01-14,Desk Organizer,Office Supplies,15.5,1,15.5,5.0,15.5,Low,Excellent
+TRX-0160,2025-11-02,Resistance Bands,Fitness & Outdoors,13.71,1,13.71,5.0,13.71,Low,Excellent
+TRX-0161,2025-11-21,Ergonomic Mouse,Office Supplies,17.91,1,17.91,3.88,17.91,Medium,Excellent
+TRX-0162,2026-03-04,Baseball Cap,Apparel,7.48,1,7.48,5.0,7.48,Low,Excellent
+TRX-0163,2026-03-31,Resistance Bands,Fitness & Outdoors,10.72,2,21.44,4.0,10.72,Medium,Excellent
+TRX-0164,2026-03-01,T-Shirt,Apparel,22.78,1,22.78,3.0,22.78,Medium,Average
+TRX-0165,2026-02-21,Power Bank,Gadgets,35.52,2,71.04,5.0,35.52,High,Excellent
+TRX-0166,2025-12-09,Resistance Bands,Fitness & Outdoors,5.17,1,5.17,5.0,5.17,Low,Excellent
+TRX-0167,2026-04-23,Dumbbell Set,Fitness & Outdoors,37.14,1,37.14,4.0,37.14,Medium,Excellent
+TRX-0168,2026-04-25,Yoga Mat,Fitness & Outdoors,27.45,2,54.9,3.0,27.45,High,Average
+TRX-0169,2025-12-27,Power Bank,Gadgets,16.075,1,16.075,4.0,16.075,Low,Excellent
+TRX-0170,2025-12-24,Dumbbell Set,Fitness & Outdoors,41.97,1,41.97,5.0,41.97,High,Excellent
+TRX-0171,2025-11-09,Desk Organizer,Office Supplies,24.73,1,24.73,5.0,24.73,Medium,Excellent
+TRX-0172,2026-01-09,Water Bottle,Fitness & Outdoors,10.79,1,10.79,2.0,10.79,Low,Poor
+TRX-0173,2026-03-14,Desk Organizer,Office Supplies,16.075,2,32.15,4.0,16.075,Medium,Excellent
+TRX-0174,2026-02-10,Running Shorts,Apparel,16.075,1,16.075,5.0,16.075,Low,Excellent
+TRX-0175,2026-02-19,T-Shirt,Apparel,19.9,3,59.699999999999996,5.0,19.9,High,Excellent
+TRX-0176,2025-12-20,Water Bottle,Fitness & Outdoors,7.28,2,14.56,3.88,7.28,Low,Excellent
+TRX-0177,2025-12-27,Baseball Cap,Apparel,8.7,2,17.4,5.0,8.7,Low,Excellent
+TRX-0178,2026-04-09,LED Desk Light,Gadgets,39.24,1,39.24,3.0,39.24,High,Average
+TRX-0179,2026-04-17,Gel Pens,Office Supplies,9.54,1,9.54,5.0,9.54,Low,Excellent
+TRX-0180,2025-12-20,LED Desk Light,Gadgets,37.4,2,74.8,4.0,37.4,High,Excellent
+TRX-0181,2026-01-31,Yoga Mat,Fitness & Outdoors,38.0,1,38.0,3.0,38.0,High,Average
+TRX-0182,2026-02-01,Yoga Mat,Fitness & Outdoors,43.0,2,86.0,5.0,43.0,High,Excellent
+TRX-0183,2025-12-21,Ergonomic Mouse,Office Supplies,24.96,3,74.88,5.0,24.959999999999997,High,Excellent
+TRX-0184,2025-11-02,Baseball Cap,Apparel,10.4,1,10.4,3.88,10.4,Low,Excellent
+TRX-0185,2026-01-06,Power Bank,Gadgets,26.55,1,26.55,4.0,26.55,Medium,Excellent
+TRX-0186,2025-11-12,Socks Pack,Apparel,11.67,1,11.67,5.0,11.67,Low,Excellent
+TRX-0187,2026-04-28,Power Bank,Gadgets,34.56,1,34.56,4.0,34.56,Medium,Excellent
+TRX-0188,2026-04-11,Water Bottle,Fitness & Outdoors,10.75,1,10.75,5.0,10.75,Low,Excellent
+TRX-0189,2025-12-06,Yoga Mat,Fitness & Outdoors,42.32,1,42.32,3.0,42.32,High,Average
+TRX-0190,2026-03-03,T-Shirt,Apparel,23.51,2,47.02,3.0,23.51,High,Average
+TRX-0191,2025-11-19,Water Bottle,Fitness & Outdoors,12.74,3,38.22,4.0,12.74,High,Excellent
+TRX-0192,2026-03-11,Notebook,Office Supplies,14.49,2,28.98,4.0,14.49,Medium,Excellent
+TRX-0193,2025-12-12,Gel Pens,Office Supplies,7.83,2,15.66,4.0,7.83,Low,Excellent
+TRX-0194,2026-01-13,Baseball Cap,Apparel,13.49,4,53.96,4.0,13.49,High,Excellent
+TRX-0195,2026-04-10,Resistance Bands,Fitness & Outdoors,13.73,4,54.92,5.0,13.73,High,Excellent
+TRX-0196,2026-03-18,LED Desk Light,Gadgets,34.25,3,102.75,4.0,34.25,High,Excellent
+TRX-0197,2025-11-22,Power Bank,Gadgets,38.3,1,38.3,5.0,38.3,High,Excellent
+TRX-0198,2025-12-05,Gel Pens,Office Supplies,13.94,3,41.82,4.0,13.94,High,Excellent
+TRX-0199,2025-12-04,Power Bank,Gadgets,26.41,4,105.64,4.0,26.41,High,Excellent
+TRX-0200,2026-02-08,Resistance Bands,Fitness & Outdoors,8.19,1,8.19,5.0,8.19,Low,Excellent
+TRX-0201,2026-01-27,Running Shorts,Apparel,24.05,3,72.15,4.0,24.05,High,Excellent
+TRX-0202,2026-04-26,Baseball Cap,Apparel,7.83,4,31.32,4.0,7.83,Medium,Excellent
+TRX-0203,2025-12-05,Power Bank,Gadgets,25.28,5,126.4,3.0,25.28,High,Average
+TRX-0204,2026-02-12,Resistance Bands,Fitness & Outdoors,5.12,2,10.24,3.88,5.12,Low,Excellent
+TRX-0205,2025-11-06,Desk Organizer,Office Supplies,21.45,1,21.45,3.0,21.45,Medium,Average
+TRX-0206,2026-01-08,Running Shorts,Apparel,20.47,1,20.47,5.0,20.47,Medium,Excellent
+TRX-0207,2026-01-09,Notebook,Office Supplies,9.08,1,9.08,1.0,9.08,Low,Poor
+TRX-0208,2025-11-27,Resistance Bands,Fitness & Outdoors,14.59,1,14.59,1.0,14.59,Low,Poor
+TRX-0209,2025-11-03,Baseball Cap,Apparel,11.39,2,22.78,5.0,11.39,Medium,Excellent
+TRX-0210,2025-12-04,Resistance Bands,Fitness & Outdoors,14.56,1,14.56,3.0,14.56,Low,Average
+TRX-0211,2026-02-02,Yoga Mat,Fitness & Outdoors,37.53,1,37.53,4.0,37.53,High,Excellent
+TRX-0212,2026-04-14,Running Shorts,Apparel,18.2,3,54.599999999999994,4.0,18.2,High,Excellent
+TRX-0213,2026-01-18,Yoga Mat,Fitness & Outdoors,30.85,1,30.85,3.0,30.85,Medium,Average
+TRX-0214,2026-01-15,LED Desk Light,Gadgets,35.32,2,70.64,1.0,35.32,High,Poor
+TRX-0215,2026-03-10,Baseball Cap,Apparel,10.85,1,10.85,3.0,10.85,Low,Average
+TRX-0216,2025-12-24,Desk Organizer,Office Supplies,16.83,1,16.83,3.0,16.83,Low,Average
+TRX-0217,2025-12-06,Yoga Mat,Fitness & Outdoors,27.92,1,27.92,3.0,27.92,Medium,Average
+TRX-0218,2026-01-26,T-Shirt,Apparel,21.44,1,21.44,5.0,21.44,Medium,Excellent
+TRX-0219,2026-01-02,Water Bottle,Fitness & Outdoors,6.69,2,13.38,5.0,6.69,Low,Excellent
+TRX-0220,2025-11-03,Notebook,Office Supplies,10.18,5,50.9,5.0,10.18,High,Excellent
+TRX-0221,2025-11-21,LED Desk Light,Gadgets,30.19,3,90.57000000000001,5.0,30.19,High,Excellent
+TRX-0222,2026-04-24,Water Bottle,Fitness & Outdoors,14.65,5,73.25,4.0,14.65,High,Excellent
+TRX-0223,2026-04-21,Water Bottle,Fitness & Outdoors,8.27,2,16.54,5.0,8.27,Low,Excellent
+TRX-0224,2026-04-11,Water Bottle,Fitness & Outdoors,5.42,1,5.42,4.0,5.42,Low,Excellent
+TRX-0225,2026-02-11,Socks Pack,Apparel,8.6,2,17.2,4.0,8.6,Low,Excellent
+TRX-0226,2026-02-28,T-Shirt,Apparel,21.13,5,105.64999999999999,5.0,21.13,High,Excellent
+TRX-0227,2026-02-03,T-Shirt,Apparel,24.62,2,49.24,5.0,24.62,High,Excellent
+TRX-0228,2026-01-03,Notebook,Office Supplies,9.06,3,27.18,4.0,9.06,Medium,Excellent
+TRX-0229,2026-04-18,Phone Stand,Gadgets,5.5,1,5.5,5.0,5.5,Low,Excellent
+TRX-0230,2026-01-13,Power Bank,Gadgets,44.02,1,44.02,2.0,44.02,High,Poor
+TRX-0231,2025-11-10,T-Shirt,Apparel,18.72,2,37.44,3.0,18.72,High,Average
+TRX-0232,2026-04-26,Running Shorts,Apparel,19.82,1,19.82,5.0,19.82,Medium,Excellent
+TRX-0233,2026-02-01,Running Shorts,Apparel,20.32,2,40.64,5.0,20.32,High,Excellent
+TRX-0234,2025-11-29,Gel Pens,Office Supplies,6.5,1,6.5,3.0,6.5,Low,Average
+TRX-0235,2025-11-22,Gel Pens,Office Supplies,7.05,2,14.1,4.0,7.05,Low,Excellent
+TRX-0236,2026-03-09,Power Bank,Gadgets,40.07,5,200.35,5.0,40.07,High,Excellent
+TRX-0237,2025-12-16,Water Bottle,Fitness & Outdoors,6.65,2,13.3,3.0,6.65,Low,Average
+TRX-0238,2025-11-12,Gel Pens,Office Supplies,7.37,1,7.37,3.0,7.37,Low,Average
+TRX-0239,2026-02-08,Running Shorts,Apparel,16.68,1,16.68,3.0,16.68,Low,Average
+TRX-0240,2026-01-03,Notebook,Office Supplies,11.2,4,44.8,1.0,11.2,High,Poor
+TRX-0241,2026-02-18,Notebook,Office Supplies,11.25,1,11.25,3.0,11.25,Low,Average
+TRX-0242,2025-11-13,Notebook,Office Supplies,9.42,4,37.68,5.0,9.42,High,Excellent
+TRX-0243,2025-12-12,Ergonomic Mouse,Office Supplies,17.31,1,17.31,5.0,17.31,Low,Excellent
+TRX-0244,2026-04-01,Phone Stand,Gadgets,14.25,2,28.5,1.0,14.25,Medium,Poor
+TRX-0245,2026-02-22,Desk Organizer,Office Supplies,19.05,5,95.25,3.0,19.05,High,Average
+TRX-0246,2025-12-27,Power Bank,Gadgets,41.97,1,41.97,5.0,41.97,High,Excellent
+TRX-0247,2026-03-22,Yoga Mat,Fitness & Outdoors,27.35,3,82.05000000000001,5.0,27.350000000000005,High,Excellent
+TRX-0248,2026-03-19,Water Bottle,Fitness & Outdoors,8.67,4,34.68,3.0,8.67,Medium,Average
+TRX-0249,2026-02-26,Notebook,Office Supplies,7.23,1,7.23,2.0,7.23,Low,Poor
+TRX-0250,2026-02-18,Water Bottle,Fitness & Outdoors,13.46,1,13.46,4.0,13.46,Low,Excellent
+TRX-0251,2026-01-09,T-Shirt,Apparel,19.2,1,19.2,4.0,19.2,Medium,Excellent
+TRX-0252,2026-03-18,Yoga Mat,Fitness & Outdoors,26.71,1,26.71,2.0,26.71,Medium,Poor
+TRX-0253,2025-11-12,Ergonomic Mouse,Office Supplies,19.47,2,38.94,5.0,19.47,High,Excellent
+TRX-0254,2026-02-16,USB-C Cable,Gadgets,12.82,1,12.82,3.88,12.82,Low,Excellent
+TRX-0255,2026-03-22,Notebook,Office Supplies,10.55,2,21.1,3.88,10.55,Medium,Excellent
+TRX-0256,2026-04-09,Water Bottle,Fitness & Outdoors,9.06,5,45.300000000000004,4.0,9.06,High,Excellent
+TRX-0257,2026-01-25,Baseball Cap,Apparel,6.23,1,6.23,1.0,6.23,Low,Poor
+TRX-0258,2025-12-01,USB-C Cable,Gadgets,8.69,1,8.69,3.0,8.69,Low,Average
+TRX-0259,2026-01-15,Notebook,Office Supplies,14.4,2,28.8,3.0,14.4,Medium,Average
+TRX-0260,2025-11-02,Baseball Cap,Apparel,11.35,2,22.7,4.0,11.35,Medium,Excellent
+TRX-0261,2026-01-31,Desk Organizer,Office Supplies,19.82,4,79.28,5.0,19.82,High,Excellent
+TRX-0262,2026-01-03,Yoga Mat,Fitness & Outdoors,27.16,2,54.32,5.0,27.16,High,Excellent
+TRX-0263,2025-11-28,Gel Pens,Office Supplies,13.52,2,27.04,4.0,13.52,Medium,Excellent
+TRX-0264,2026-03-01,LED Desk Light,Gadgets,38.44,1,38.44,3.88,38.44,High,Excellent
+TRX-0265,2026-03-18,Power Bank,Gadgets,32.55,2,65.1,4.0,32.55,High,Excellent
+TRX-0266,2025-11-03,Ergonomic Mouse,Office Supplies,24.69,1,24.69,4.0,24.69,Medium,Excellent
+TRX-0267,2026-03-20,Water Bottle,Fitness & Outdoors,8.26,3,24.78,4.0,8.26,Medium,Excellent
+TRX-0268,2026-03-31,Baseball Cap,Apparel,13.1,1,13.1,4.0,13.1,Low,Excellent
+TRX-0269,2025-12-04,Power Bank,Gadgets,28.85,2,57.7,3.0,28.85,High,Average
+TRX-0270,2026-01-20,Notebook,Office Supplies,9.38,1,9.38,3.0,9.38,Low,Average
+TRX-0271,2025-11-14,Running Shorts,Apparel,16.1,1,16.1,4.0,16.1,Low,Excellent
+TRX-0272,2026-04-17,Baseball Cap,Apparel,10.1,1,10.1,4.0,10.1,Low,Excellent
+TRX-0273,2026-04-17,Running Shorts,Apparel,15.81,1,15.81,3.88,15.81,Low,Excellent
+TRX-0274,2026-03-20,Phone Stand,Gadgets,11.06,5,55.300000000000004,5.0,11.06,High,Excellent
+TRX-0275,2026-03-02,Notebook,Office Supplies,10.97,2,21.94,4.0,10.97,Medium,Excellent
+TRX-0276,2026-01-18,Notebook,Office Supplies,13.22,1,13.22,4.0,13.22,Low,Excellent
+TRX-0277,2026-01-26,Socks Pack,Apparel,10.17,1,10.17,3.0,10.17,Low,Average
+TRX-0278,2026-03-15,Ergonomic Mouse,Office Supplies,21.93,2,43.86,4.0,21.93,High,Excellent
+TRX-0279,2026-03-27,Yoga Mat,Fitness & Outdoors,29.82,4,119.28,4.0,29.82,High,Excellent
+TRX-0280,2025-11-27,Resistance Bands,Fitness & Outdoors,6.49,4,25.96,4.0,6.49,Medium,Excellent
+TRX-0281,2026-01-26,Notebook,Office Supplies,14.68,2,29.36,4.0,14.68,Medium,Excellent
+TRX-0282,2025-12-07,Ergonomic Mouse,Office Supplies,21.83,2,43.66,3.0,21.83,High,Average
+TRX-0283,2025-11-05,Resistance Bands,Fitness & Outdoors,12.33,2,24.66,4.0,12.33,Medium,Excellent
+TRX-0284,2026-04-19,Notebook,Office Supplies,10.32,2,20.64,3.0,10.32,Medium,Average
+TRX-0285,2025-11-27,Socks Pack,Apparel,11.63,4,46.52,5.0,11.63,High,Excellent
+TRX-0286,2026-04-06,Power Bank,Gadgets,40.37,3,121.10999999999999,5.0,40.37,High,Excellent
+TRX-0287,2026-04-01,Socks Pack,Apparel,13.14,1,13.14,4.0,13.14,Low,Excellent
+TRX-0288,2026-01-23,Dumbbell Set,Fitness & Outdoors,34.83,2,69.66,5.0,34.83,High,Excellent
+TRX-0289,2026-02-18,Dumbbell Set,Fitness & Outdoors,33.9,4,135.6,4.0,33.9,High,Excellent
+TRX-0290,2026-04-14,Gel Pens,Office Supplies,6.71,1,6.71,3.0,6.71,Low,Average
+TRX-0291,2026-03-15,Gel Pens,Office Supplies,12.88,1,12.88,3.0,12.88,Low,Average
+TRX-0292,2025-12-25,Water Bottle,Fitness & Outdoors,10.16,2,20.32,5.0,10.16,Medium,Excellent
+TRX-0293,2025-12-05,Baseball Cap,Apparel,12.1,4,48.4,4.0,12.1,High,Excellent
+TRX-0294,2026-03-05,Yoga Mat,Fitness & Outdoors,30.26,1,30.26,5.0,30.26,Medium,Excellent
+TRX-0295,2026-02-17,Running Shorts,Apparel,15.93,1,15.93,4.0,15.93,Low,Excellent
+TRX-0296,2026-03-29,Yoga Mat,Fitness & Outdoors,27.75,2,55.5,1.0,27.75,High,Poor
+TRX-0297,2026-04-08,Running Shorts,Apparel,24.56,1,24.56,4.0,24.56,Medium,Excellent
+TRX-0298,2025-12-10,USB-C Cable,Gadgets,13.52,1,13.52,5.0,13.52,Low,Excellent
+TRX-0299,2026-04-16,Gel Pens,Office Supplies,9.51,2,19.02,4.0,9.51,Medium,Excellent
+TRX-0300,2026-03-06,Ergonomic Mouse,Office Supplies,15.53,2,31.06,5.0,15.53,Medium,Excellent
+TRX-0301,2025-12-18,Power Bank,Gadgets,28.01,1,28.01,5.0,28.01,Medium,Excellent
+TRX-0302,2026-04-18,Dumbbell Set,Fitness & Outdoors,33.95,2,67.9,5.0,33.95,High,Excellent
+TRX-0303,2025-11-08,T-Shirt,Apparel,20.5,2,41.0,4.0,20.5,High,Excellent
+TRX-0304,2026-02-23,USB-C Cable,Gadgets,6.8,2,13.6,1.0,6.8,Low,Poor
+TRX-0305,2026-04-10,Resistance Bands,Fitness & Outdoors,11.55,1,11.55,5.0,11.55,Low,Excellent
+TRX-0306,2026-01-05,Baseball Cap,Apparel,12.57,1,12.57,3.0,12.57,Low,Average
+TRX-0307,2026-02-16,Power Bank,Gadgets,40.8,1,40.8,2.0,40.8,High,Poor
+TRX-0308,2026-04-12,Desk Organizer,Office Supplies,16.075,2,32.15,3.0,16.075,Medium,Average
+TRX-0309,2026-04-05,Ergonomic Mouse,Office Supplies,15.85,5,79.25,4.0,15.85,High,Excellent
+TRX-0310,2026-03-12,T-Shirt,Apparel,20.93,2,41.86,4.0,20.93,High,Excellent
+TRX-0311,2026-02-17,Running Shorts,Apparel,19.4,1,19.4,4.0,19.4,Medium,Excellent
+TRX-0312,2026-03-08,Dumbbell Set,Fitness & Outdoors,29.54,1,29.54,3.0,29.54,Medium,Average
+TRX-0313,2025-11-24,Phone Stand,Gadgets,13.45,2,26.9,5.0,13.45,Medium,Excellent
+TRX-0314,2026-04-11,Running Shorts,Apparel,22.57,2,45.14,5.0,22.57,High,Excellent
+TRX-0315,2026-01-11,USB-C Cable,Gadgets,13.2,3,39.599999999999994,5.0,13.199999999999998,High,Excellent
+TRX-0316,2025-12-05,T-Shirt,Apparel,19.71,1,19.71,5.0,19.71,Medium,Excellent
+TRX-0317,2025-11-15,Notebook,Office Supplies,12.54,1,12.54,4.0,12.54,Low,Excellent
+TRX-0318,2026-04-29,LED Desk Light,Gadgets,32.91,1,32.91,4.0,32.91,Medium,Excellent
+TRX-0319,2026-02-24,T-Shirt,Apparel,23.54,1,23.54,2.0,23.54,Medium,Poor
+TRX-0320,2025-12-01,Yoga Mat,Fitness & Outdoors,36.04,1,36.04,4.0,36.04,Medium,Excellent
+TRX-0321,2026-04-04,USB-C Cable,Gadgets,14.22,2,28.44,3.0,14.22,Medium,Average
+TRX-0322,2026-04-16,Socks Pack,Apparel,8.24,1,8.24,4.0,8.24,Low,Excellent
+TRX-0323,2026-04-17,Desk Organizer,Office Supplies,17.39,2,34.78,3.0,17.39,Medium,Average
+TRX-0324,2026-04-01,Desk Organizer,Office Supplies,17.14,3,51.42,5.0,17.14,High,Excellent
+TRX-0325,2026-04-20,Gel Pens,Office Supplies,6.05,2,12.1,4.0,6.05,Low,Excellent
+TRX-0326,2026-01-31,Socks Pack,Apparel,9.75,5,48.75,4.0,9.75,High,Excellent
+TRX-0327,2026-02-06,Notebook,Office Supplies,8.94,2,17.88,4.0,8.94,Medium,Excellent
+TRX-0328,2026-03-29,Resistance Bands,Fitness & Outdoors,8.94,1,8.94,4.0,8.94,Low,Excellent
+TRX-0329,2026-03-20,Yoga Mat,Fitness & Outdoors,38.73,1,38.73,4.0,38.73,High,Excellent
+TRX-0330,2026-03-13,Baseball Cap,Apparel,11.95,1,11.95,4.0,11.95,Low,Excellent
+TRX-0331,2026-02-03,Baseball Cap,Apparel,6.67,2,13.34,4.0,6.67,Low,Excellent
+TRX-0332,2026-01-09,Resistance Bands,Fitness & Outdoors,9.31,2,18.62,3.88,9.31,Medium,Excellent
+TRX-0333,2026-01-04,Desk Organizer,Office Supplies,15.74,2,31.48,4.0,15.74,Medium,Excellent
+TRX-0334,2026-03-26,Power Bank,Gadgets,33.11,1,33.11,3.88,33.11,Medium,Excellent
+TRX-0335,2026-03-04,Power Bank,Gadgets,40.11,4,160.44,3.0,40.11,High,Average
+TRX-0336,2026-03-12,Ergonomic Mouse,Office Supplies,16.9,1,16.9,4.0,16.9,Low,Excellent
+TRX-0337,2025-12-22,USB-C Cable,Gadgets,16.075,1,16.075,4.0,16.075,Low,Excellent
+TRX-0338,2026-04-10,LED Desk Light,Gadgets,33.9,2,67.8,2.0,33.9,High,Poor
+TRX-0339,2026-02-15,Notebook,Office Supplies,8.34,2,16.68,2.0,8.34,Low,Poor
+TRX-0340,2026-04-28,Socks Pack,Apparel,10.98,1,10.98,4.0,10.98,Low,Excellent
+TRX-0341,2026-01-04,Running Shorts,Apparel,22.12,4,88.48,4.0,22.12,High,Excellent
+TRX-0342,2026-02-17,Ergonomic Mouse,Office Supplies,23.05,5,115.25,4.0,23.05,High,Excellent
+TRX-0343,2025-11-16,Gel Pens,Office Supplies,11.62,1,11.62,3.0,11.62,Low,Average
+TRX-0344,2025-11-17,Socks Pack,Apparel,10.93,1,10.93,5.0,10.93,Low,Excellent
+TRX-0345,2026-04-25,LED Desk Light,Gadgets,39.92,1,39.92,3.0,39.92,High,Average
+TRX-0346,2026-03-02,Running Shorts,Apparel,24.01,5,120.05000000000001,5.0,24.01,High,Excellent
+TRX-0347,2026-03-20,Yoga Mat,Fitness & Outdoors,38.44,3,115.32,5.0,38.44,High,Excellent
+TRX-0348,2026-03-25,Yoga Mat,Fitness & Outdoors,36.22,1,36.22,1.0,36.22,Medium,Poor
+TRX-0349,2025-12-21,T-Shirt,Apparel,16.78,1,16.78,4.0,16.78,Low,Excellent
+TRX-0350,2025-12-17,Socks Pack,Apparel,12.56,3,37.68,4.0,12.56,High,Excellent
+TRX-0351,2026-04-20,Phone Stand,Gadgets,11.5,1,11.5,5.0,11.5,Low,Excellent
+TRX-0352,2025-11-27,Desk Organizer,Office Supplies,22.35,1,22.35,4.0,22.35,Medium,Excellent
+TRX-0353,2025-12-11,Notebook,Office Supplies,8.06,1,8.06,5.0,8.06,Low,Excellent
+TRX-0354,2026-04-14,Resistance Bands,Fitness & Outdoors,12.65,1,12.65,5.0,12.65,Low,Excellent
+TRX-0355,2026-01-20,Notebook,Office Supplies,10.41,2,20.82,5.0,10.41,Medium,Excellent
+TRX-0356,2025-11-19,Power Bank,Gadgets,28.37,4,113.48,3.0,28.37,High,Average
+TRX-0357,2026-04-17,LED Desk Light,Gadgets,37.32,1,37.32,4.0,37.32,Medium,Excellent
+TRX-0358,2026-01-12,Running Shorts,Apparel,16.08,2,32.16,4.0,16.08,Medium,Excellent
+TRX-0359,2025-11-09,Running Shorts,Apparel,23.18,5,115.9,4.0,23.18,High,Excellent
+TRX-0360,2025-11-29,Notebook,Office Supplies,16.075,2,32.15,1.0,16.075,Medium,Poor
+TRX-0361,2025-11-03,Desk Organizer,Office Supplies,16.04,1,16.04,4.0,16.04,Low,Excellent
+TRX-0362,2026-03-29,Desk Organizer,Office Supplies,16.65,2,33.3,5.0,16.65,Medium,Excellent
+TRX-0363,2026-04-02,Running Shorts,Apparel,22.1,1,22.1,2.0,22.1,Medium,Poor
+TRX-0364,2025-12-12,Running Shorts,Apparel,16.86,3,50.58,3.0,16.86,High,Average
+TRX-0365,2025-12-01,Ergonomic Mouse,Office Supplies,19.5,4,78.0,5.0,19.5,High,Excellent
+TRX-0366,2026-01-19,Ergonomic Mouse,Office Supplies,18.57,4,74.28,2.0,18.57,High,Poor
+TRX-0367,2026-04-17,Running Shorts,Apparel,16.93,3,50.79,4.0,16.93,High,Excellent
+TRX-0368,2025-12-19,Phone Stand,Gadgets,7.83,1,7.83,4.0,7.83,Low,Excellent
+TRX-0369,2025-11-14,T-Shirt,Apparel,21.02,5,105.1,4.0,21.02,High,Excellent
+TRX-0370,2026-03-04,Water Bottle,Fitness & Outdoors,14.23,1,14.23,3.0,14.23,Low,Average
+TRX-0371,2025-11-13,Yoga Mat,Fitness & Outdoors,43.3,2,86.6,4.0,43.3,High,Excellent
+TRX-0372,2026-02-17,Socks Pack,Apparel,8.01,5,40.05,5.0,8.01,High,Excellent
+TRX-0373,2026-03-01,Running Shorts,Apparel,20.14,1,20.14,3.0,20.14,Medium,Average
+TRX-0374,2026-01-06,Water Bottle,Fitness & Outdoors,9.29,1,9.29,5.0,9.29,Low,Excellent
+TRX-0375,2026-03-03,Socks Pack,Apparel,5.28,2,10.56,5.0,5.28,Low,Excellent
+TRX-0376,2025-11-12,Resistance Bands,Fitness & Outdoors,6.75,2,13.5,3.88,6.75,Low,Excellent
+TRX-0377,2026-02-10,USB-C Cable,Gadgets,7.66,4,30.64,5.0,7.66,Medium,Excellent
+TRX-0378,2026-03-11,Phone Stand,Gadgets,13.36,1,13.36,1.0,13.36,Low,Poor
+TRX-0379,2026-01-09,Baseball Cap,Apparel,7.41,1,7.41,5.0,7.41,Low,Excellent
+TRX-0380,2025-12-28,Gel Pens,Office Supplies,8.97,2,17.94,4.0,8.97,Medium,Excellent
+TRX-0381,2026-02-28,Socks Pack,Apparel,9.53,1,9.53,2.0,9.53,Low,Poor
+TRX-0382,2025-12-30,Desk Organizer,Office Supplies,22.38,1,22.38,5.0,22.38,Medium,Excellent
+TRX-0383,2026-01-11,Power Bank,Gadgets,25.41,1,25.41,5.0,25.41,Medium,Excellent
+TRX-0384,2026-02-01,Power Bank,Gadgets,29.74,1,29.74,4.0,29.74,Medium,Excellent
+TRX-0385,2026-01-24,Phone Stand,Gadgets,7.24,2,14.48,3.0,7.24,Low,Average
+TRX-0386,2026-01-31,Socks Pack,Apparel,10.28,4,41.12,4.0,10.28,High,Excellent
+TRX-0387,2026-01-22,Yoga Mat,Fitness & Outdoors,41.35,1,41.35,3.0,41.35,High,Average
+TRX-0388,2026-03-04,T-Shirt,Apparel,20.88,1,20.88,5.0,20.88,Medium,Excellent
+TRX-0389,2025-12-13,Socks Pack,Apparel,8.13,2,16.26,4.0,8.13,Low,Excellent
+TRX-0390,2025-11-24,Dumbbell Set,Fitness & Outdoors,29.7,2,59.4,4.0,29.7,High,Excellent
+TRX-0391,2025-12-15,Water Bottle,Fitness & Outdoors,7.43,1,7.43,4.0,7.43,Low,Excellent
+TRX-0392,2025-12-19,Desk Organizer,Office Supplies,23.61,1,23.61,4.0,23.61,Medium,Excellent
+TRX-0393,2026-01-12,Running Shorts,Apparel,22.29,1,22.29,4.0,22.29,Medium,Excellent
+TRX-0394,2026-03-20,Running Shorts,Apparel,22.43,2,44.86,4.0,22.43,High,Excellent
+TRX-0395,2025-12-14,Socks Pack,Apparel,16.075,1,16.075,4.0,16.075,Low,Excellent
+TRX-0396,2026-03-30,Dumbbell Set,Fitness & Outdoors,26.65,3,79.94999999999999,3.0,26.649999999999995,High,Average
+TRX-0397,2026-04-17,Phone Stand,Gadgets,12.54,1,12.54,3.0,12.54,Low,Average
+TRX-0398,2026-03-08,USB-C Cable,Gadgets,8.91,4,35.64,4.0,8.91,Medium,Excellent
+TRX-0399,2026-01-26,Gel Pens,Office Supplies,7.04,1,7.04,4.0,7.04,Low,Excellent
+TRX-0400,2026-01-11,Dumbbell Set,Fitness & Outdoors,41.96,1,41.96,4.0,41.96,High,Excellent
+TRX-0401,2026-04-12,USB-C Cable,Gadgets,6.73,3,20.19,2.0,6.73,Medium,Poor
+TRX-0402,2026-03-02,Notebook,Office Supplies,8.41,3,25.23,3.0,8.41,Medium,Average
+TRX-0403,2026-02-23,Socks Pack,Apparel,12.44,4,49.76,5.0,12.44,High,Excellent
+TRX-0404,2026-01-04,Power Bank,Gadgets,34.82,1,34.82,4.0,34.82,Medium,Excellent
+TRX-0405,2026-02-07,Water Bottle,Fitness & Outdoors,14.17,2,28.34,3.0,14.17,Medium,Average
+TRX-0406,2026-02-27,Power Bank,Gadgets,27.23,1,27.23,1.0,27.23,Medium,Poor
+TRX-0407,2026-01-05,Baseball Cap,Apparel,9.05,2,18.1,3.0,9.05,Medium,Average
+TRX-0408,2025-11-16,Power Bank,Gadgets,32.95,2,65.9,4.0,32.95,High,Excellent
+TRX-0409,2026-01-02,Gel Pens,Office Supplies,7.47,1,7.47,4.0,7.47,Low,Excellent
+TRX-0410,2026-03-30,Power Bank,Gadgets,39.64,4,158.56,4.0,39.64,High,Excellent
+TRX-0411,2026-04-08,USB-C Cable,Gadgets,8.83,1,8.83,5.0,8.83,Low,Excellent
+TRX-0412,2026-03-29,Gel Pens,Office Supplies,14.42,1,14.42,5.0,14.42,Low,Excellent
+TRX-0413,2025-11-15,Power Bank,Gadgets,30.91,3,92.73,4.0,30.91,High,Excellent
+TRX-0414,2026-01-01,Yoga Mat,Fitness & Outdoors,25.94,4,103.76,5.0,25.94,High,Excellent
+TRX-0415,2026-01-15,Desk Organizer,Office Supplies,22.02,1,22.02,3.0,22.02,Medium,Average
+TRX-0416,2026-02-04,Power Bank,Gadgets,38.77,3,116.31,3.0,38.77,High,Average
+TRX-0417,2025-12-11,Running Shorts,Apparel,23.66,4,94.64,4.0,23.66,High,Excellent
+TRX-0418,2025-12-18,Dumbbell Set,Fitness & Outdoors,40.78,1,40.78,3.0,40.78,High,Average
+TRX-0419,2025-12-26,Resistance Bands,Fitness & Outdoors,8.35,2,16.7,5.0,8.35,Low,Excellent
+TRX-0420,2026-04-01,Baseball Cap,Apparel,10.71,1,10.71,5.0,10.71,Low,Excellent
+TRX-0421,2026-01-24,LED Desk Light,Gadgets,39.99,2,79.98,5.0,39.99,High,Excellent
+TRX-0422,2026-02-26,Dumbbell Set,Fitness & Outdoors,43.41,2,86.82,5.0,43.41,High,Excellent
+TRX-0423,2026-04-02,Notebook,Office Supplies,10.45,3,31.349999999999998,5.0,10.45,Medium,Excellent
+TRX-0424,2026-03-19,Ergonomic Mouse,Office Supplies,19.1,2,38.2,2.0,19.1,High,Poor
+TRX-0425,2026-01-29,LED Desk Light,Gadgets,31.24,2,62.48,5.0,31.24,High,Excellent
+TRX-0426,2026-03-30,Resistance Bands,Fitness & Outdoors,6.44,2,12.88,4.0,6.44,Low,Excellent
+TRX-0427,2026-01-12,Resistance Bands,Fitness & Outdoors,6.97,1,6.97,5.0,6.97,Low,Excellent
+TRX-0428,2026-03-10,Phone Stand,Gadgets,13.59,1,13.59,5.0,13.59,Low,Excellent
+TRX-0429,2026-03-05,T-Shirt,Apparel,21.16,5,105.8,4.0,21.16,High,Excellent
+TRX-0430,2025-12-09,Baseball Cap,Apparel,12.57,1,12.57,5.0,12.57,Low,Excellent
+TRX-0431,2026-01-18,Gel Pens,Office Supplies,7.68,1,7.68,3.88,7.68,Low,Excellent
+TRX-0432,2025-12-26,Water Bottle,Fitness & Outdoors,7.45,1,7.45,2.0,7.45,Low,Poor
+TRX-0433,2026-01-16,Running Shorts,Apparel,18.91,2,37.82,1.0,18.91,High,Poor
+TRX-0434,2026-03-31,Resistance Bands,Fitness & Outdoors,5.49,2,10.98,4.0,5.49,Low,Excellent
+TRX-0435,2026-02-21,Dumbbell Set,Fitness & Outdoors,29.58,3,88.74,5.0,29.58,High,Excellent
+TRX-0436,2025-11-05,Desk Organizer,Office Supplies,19.72,2,39.44,5.0,19.72,High,Excellent
+TRX-0437,2026-04-25,Notebook,Office Supplies,12.04,2,24.08,5.0,12.04,Medium,Excellent
+TRX-0438,2026-04-07,Notebook,Office Supplies,10.03,1,10.03,5.0,10.03,Low,Excellent
+TRX-0439,2026-02-10,Power Bank,Gadgets,32.27,1,32.27,4.0,32.27,Medium,Excellent
+TRX-0440,2025-12-18,T-Shirt,Apparel,21.57,4,86.28,5.0,21.57,High,Excellent
+TRX-0441,2025-11-20,Running Shorts,Apparel,19.76,1,19.76,3.0,19.76,Medium,Average
+TRX-0442,2025-12-25,Baseball Cap,Apparel,8.77,3,26.31,4.0,8.77,Medium,Excellent
+TRX-0443,2025-11-18,Resistance Bands,Fitness & Outdoors,6.66,1,6.66,1.0,6.66,Low,Poor
+TRX-0444,2025-12-27,USB-C Cable,Gadgets,10.86,2,21.72,4.0,10.86,Medium,Excellent
+TRX-0445,2026-01-18,Water Bottle,Fitness & Outdoors,5.06,3,15.18,5.0,5.06,Low,Excellent
+TRX-0446,2026-01-20,Running Shorts,Apparel,16.66,2,33.32,3.0,16.66,Medium,Average
+TRX-0447,2026-03-17,Notebook,Office Supplies,14.36,1,14.36,5.0,14.36,Low,Excellent
+TRX-0448,2026-01-21,Power Bank,Gadgets,44.71,1,44.71,5.0,44.71,High,Excellent
+TRX-0449,2025-12-28,T-Shirt,Apparel,24.19,2,48.38,4.0,24.19,High,Excellent
+TRX-0450,2026-04-13,Ergonomic Mouse,Office Supplies,24.72,3,74.16,3.0,24.72,High,Average
